@@ -50,7 +50,7 @@
 
 ### Приложение
 
-Пишу на PHP с 2013 года понятный, чистый код, использую принципы `DRY`, `KISS` .
+Пишу на PHP с 2013 года понятный, чистый код, использую принципы `DRY`, `KISS`, `SOLID` .
 
 #### Go
 Закончил курс на udemy [курс](https://www.udemy.com/course/go-the-complete-developers-guide/) , [сертификат](https://www.udemy.com/certificate/UC-debd6324-9709-4ef4-a23a-1cb44115a7b0/) .
